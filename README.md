@@ -79,8 +79,7 @@ Python: Version 3.8 or later
 ### Required packages
 
 |  collections |   numpy     |  seaborm  |
-|:-----------: | :--------:  | :-------: | 
-| collinearity |     os      !   sklearn |   
+| collinearity |    os       |  sklearn  |   
 |     copy     |   pandas    |    time   |
 |   jenkspy    |  pathlib    | warning   |
 |     joblib   |    pickle   |  xgboost  |
